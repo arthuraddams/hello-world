@@ -1,3 +1,2 @@
-# hello-world
-excise repository
-I like Data visualization .#arthur20170619
+this file is about udacity-data-analysis-basic 
+P2 numpy&pandas
